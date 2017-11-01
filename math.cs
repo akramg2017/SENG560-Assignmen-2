@@ -1,4 +1,6 @@
-﻿using System;
+// this is the reused class from the library for bisc Operations.
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
