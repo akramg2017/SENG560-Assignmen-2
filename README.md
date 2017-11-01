@@ -14,6 +14,10 @@ The operations to be supported are:
 •	Exponent 
 •	Conversion between the various types (octal, hexadecimal, integer, binary).
 
-I have reuse this library in Basic_Calculator window based form for basic arithmetic functions.  
+I have reuse this library in Basic_Calculator window from for basic arithmetic functions.  
 I use The “white box” reuse code to updated GUI was in the implementation in package. The original test program is 
 being reused “black box” code with the updated GUI implementation.
+
+# Generic Arithmetic Library
+
+This application uses the third party Java library to perform the basic arithmetic functions for my Basic_calculator Window from. The library obtained from github repository https://github.com/swampy2b/calculator.
