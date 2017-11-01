@@ -1,0 +1,8 @@
+C:\Users\akram\Desktop\SENG 560\class3\ProgrammingAssignment2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\akram\Desktop\SENG 560\class3\ProgrammingAssignment2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\akram\Desktop\SENG 560\class3\ProgrammingAssignment2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\akram\Desktop\SENG 560\class3\ProgrammingAssignment2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication1.frmcalculator.resources
+C:\Users\akram\Desktop\SENG 560\class3\ProgrammingAssignment2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\akram\Desktop\SENG 560\class3\ProgrammingAssignment2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\akram\Desktop\SENG 560\class3\ProgrammingAssignment2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\akram\Desktop\SENG 560\class3\ProgrammingAssignment2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
