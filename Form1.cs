@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -27,10 +27,10 @@ namespace WindowsFormsApplication1
                     result = Calculator.Calculate.Subtract(n1,n2);
                     break;
                 case 3:
-                    result = Calculator.Calculate.Product(n1 * n2);
+                    result = Calculator.Calculate.Product(n1, n2);
                     break;
                 case 4:
-                    result = Calculator.Calculate.Quotient(n1 / n2);
+                    result = Calculator.Calculate.Quotient(n1,n2);
                     break;
             }
             setText(result.ToString());
